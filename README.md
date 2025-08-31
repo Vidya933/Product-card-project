@@ -27,7 +27,7 @@ documentation
 HOW TO RUN
 1. Clone this repository:
     git clone
-    https://github.com/Vidya933/product-card.git
+    https://github.com/Vidya933/product-card-project.git
 
 2. Open the folder:
     cd product-card
@@ -38,4 +38,5 @@ HOW TO RUN
 FUTURE IMPROVEMENTS:
 1. Add a javaScript cart system (store products in local storage).
 2. Connect to a backend/database to handle cart & checkout.
+
 3. Add multiple product cards in a grid.
